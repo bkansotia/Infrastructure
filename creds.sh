@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# credentials need to be added
 # creds of your terraform user
 export AWS_ACCESS_KEY_ID="some_access_key"
 export AWS_SECRET_ACCESS_KEY="some_secret_key"
